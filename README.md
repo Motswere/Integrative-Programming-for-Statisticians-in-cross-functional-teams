@@ -1,0 +1,2 @@
+# Integrative-Programming-for-Statisticians-in-cross-functional-teams
+The repository focuses on collab and comm strategies using cloud based infrastructure e.g Azure/AWS, integrative cost-efficient tech stacks e.g, R, Python and Power BI in comparison to SAS and SAS JMP with sponsor dedicated platforms e.g, Eli Lilly's MagnoIAI and Cytel's East Horizon. In order to provide improved project timelines and cost-savings.
