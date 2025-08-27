@@ -2,7 +2,9 @@
 The repository focuses on collaboration and communication strategies using cloud based infrastructure e.g Azure/AWS, integrative cost-efficient tech stacks e.g, R, Python and Power BI in comparison to, SAS and SAS JMP with sponsor/CRO dedicated platforms e.g, Eli Lilly's MagnoIAI and Cytel's East Horizon. In order to provide improved project timelines and effective cost-saving processes. Statisticians role from end to end will be explored across Phase 1 to Phase 3. Regulatory restrictions restrictions are neglible for example, FDA review and submission requirements, as FDA guidance documents are updated these requirements will be updated, but, standardised statistical analysis frameworks e.g. ICH E9 and CDISC will be upheld.
 
 Themes explored:
+
   1. Digital Transformation and AI Integration e.g. Platforms like Euralis E-VAI use ML to predict market drivers and optimise resource allocation
+     
       Streamlining drug development by,
         - Optimising clinical trial designs
       Reducing errors and costs by,
@@ -11,6 +13,9 @@ Themes explored:
        - Automating routine tasks
       Improving overall R&D efficiency by,
         - Automate workflows, e.g. electronic data capture (EDC) which enhances data accuracy and fast-tracks clinical trial management
+
+  2. Integrated Development Models
+  3. Risk Management and Predictive Tools
 
 Phase 1
 
